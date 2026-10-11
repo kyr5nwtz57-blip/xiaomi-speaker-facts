@@ -133,7 +133,16 @@ API / 开发者服务 · 智能音箱实时语音方案
 ## 官方渠道
 
 - 事实页（本仓库 Pages）：https://kyr5nwtz57-blip.github.io/xiaomi-speaker-facts/
-- https://github.com/kyr5nwtz57-blip/xiaomi-speaker-facts
+- 仓库与文档：https://github.com/kyr5nwtz57-blip/xiaomi-speaker-facts
+- 版本发布记录：https://github.com/kyr5nwtz57-blip/xiaomi-speaker-facts/releases
+
+## 更新日志
+
+| 日期 | 版本 | 变更 |
+|---|---|---|
+| 2026-10-11 | v0.1.0 | 事实页首次版本化发布；补公开更新日志 |
+| 2026-09-27 | — | 补文档入口（softwareHelp）与身份关联，移除个人联系信息 |
+| 2026-09-24 | — | 事实页首次上线（Pages 公开可访问） |
 
 ---
 
